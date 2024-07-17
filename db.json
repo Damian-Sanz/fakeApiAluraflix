@@ -89,51 +89,6 @@
               "portada": "https://moviepostermexico.com/cdn/shop/products/fantastic_beasts_the_secrets_of_dumbledore_ver3_xxlg_1200x1200.jpg?v=1650479836",
               "foto": "https://hips.hearstapps.com/hmg-prod/images/dan-fogler-jessica-williams-eddie-redmayne-callum-turner-fantastic-beasts-the-secrets-of-dumbledore-1649065100.jpeg?crop=0.733xw:1.00xh;0.111xw,0&resize=1200:*",
               "genero": "Aventura"
-            },
-            {
-              "id": 11,
-              "titulo": "Wakanda Forever",
-              "anio": 2022,
-              "descripcion": "En 'Black Panther: Wakanda Forever', el reino de Wakanda enfrenta una nueva amenaza mientras sus líderes luchan por proteger su nación y honrar el legado del rey T'Challa. La película explora la resiliencia y unidad del pueblo wakandiano, presentando a nuevos personajes y revelando secretos del pasado. Con espectaculares escenas de acción y una profunda narrativa emocional, 'Wakanda Forever' celebra la cultura y el espíritu de Wakanda. A medida que enfrentan desafíos internos y externos, los personajes deben unirse para salvaguardar su hogar y preservar la paz en el mundo.",
-              "portada": "https://moviepostermexico.com/cdn/shop/products/black_panther_wakanda_forever_ver2_xxlg_1024x1024@2x.jpg?v=1667337530",
-              "foto": "https://media.gq.com.mx/photos/62e3f94c5a8c1e60ded0d906/16:9/w_2560%2Cc_limit/michael%2520b%2520jordan.jpg",
-              "genero": "Acción, Aventura"
-            },
-            {
-              "id": 12,
-              "titulo": "No Time to Die",
-              "anio": 2021,
-              "descripcion": "En 'No Time to Die', James Bond ha dejado el servicio activo y disfruta de una vida tranquila en Jamaica. Sin embargo, su paz se ve interrumpida cuando Felix Leiter, un viejo amigo de la CIA, le pide ayuda para rescatar a un científico secuestrado. La misión se vuelve más peligrosa de lo esperado, llevando a Bond a enfrentar a un misterioso villano armado con una nueva y peligrosa tecnología. La película ofrece emocionantes escenas de acción, intriga y el característico estilo de Bond, mientras explora temas de lealtad, amor y sacrificio en la última aventura de Daniel Craig como el icónico agente 007.",
-              "portada": "https://static.wixstatic.com/media/d56791_12d4a7842ae8451eb084879d3855ba59~mv2.jpeg/v1/fill/w_691,h_1024,al_c,q_85,enc_auto/d56791_12d4a7842ae8451eb084879d3855ba59~mv2.jpeg",
-              "foto": "https://dims.apnews.com/dims4/default/6e8053d/2147483647/strip/true/crop/2770x1867+0+0/resize/599x404!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2F70a22332bfe843b993914554fe32d6cb%2F2770.jpeg",
-              "genero": "Acción, Suspenso"
-            },
-            {
-              "id": 13,
-              "titulo": "Spider-Man: No Way Home",
-              "anio": 2021,
-              "descripcion": "En 'Spider-Man: No Way Home', Peter Parker enfrenta las consecuencias de que su identidad como Spider-Man sea revelada al mundo. Desesperado por encontrar una solución, Peter recurre al Doctor Strange, quien intenta un hechizo que sale mal, abriendo las puertas al multiverso. Ahora, Peter debe enfrentarse a villanos de otros universos mientras busca restablecer el orden y proteger a sus seres queridos. La película ofrece emocionantes escenas de acción, momentos emotivos y sorprendentes apariciones de personajes queridos. Con una trama llena de giros y sorpresas, 'No Way Home' redefine el concepto de superhéroes y multiverso.",
-              "portada": "https://es.web.img2.acsta.net/pictures/21/12/01/12/07/0243323.jpg",
-              "foto": "https://sm.ign.com/t/ign_latam/news/s/sam-raimi-/sam-raimi-reveals-his-feelings-after-watching-spider-man-no_tyr8.1280.jpg",
-              "genero": "Acción, Ciencia Ficción"
-            },
-            {
-              "id": 14,
-              "titulo": "Dune",
-              "anio": 2021,
-              "descripcion": "La adaptación cinematográfica de la aclamada novela de Frank Herbert, 'Dune', sigue la historia de Paul Atreides, un joven brillante y talentoso que debe viajar al planeta más peligroso del universo para asegurar el futuro de su familia y su pueblo. Mientras fuerzas malévolas se enfrentan en una lucha por el control del suministro exclusivo del recurso más valioso del planeta, la especia melange, solo aquellos que puedan conquistar su propio miedo sobrevivirán. Con impresionantes efectos visuales, una narrativa épica y un elenco estelar, 'Dune' es una inmersiva experiencia cinematográfica que explora temas de poder, traición y destino.",
-              "portada": "https://www.lahiguera.net/cinemania/pelicula/9517/dune-cartel-10031.jpg",
-              "foto": "https://media.gq.com.mx/photos/6216b777343bc6058cdec3f6/16:9/w_2560%2Cc_limit/Dune-GQ2.jpg",
-              "genero": "Ciencia Ficción"
-            },
-            {
-              "id": 15,
-              "titulo": "The Suicide Squad",
-              "anio": 2021,
-              "descripcion": "En 'The Suicide Squad', un grupo de supervillanos encarcelados se une a una peligrosa misión bajo la supervisión de Amanda Waller. Esta vez, el equipo es enviado a la remota isla de Corto Maltese para destruir un laboratorio nazi y enfrentarse a una amenaza alienígena conocida como Starro. La película combina acción desenfrenada, humor negro y personajes memorables, explorando las dinámicas entre estos villanos mientras luchan por sobrevivir. Con giros inesperados, escenas de combate impresionantes y un tono irreverente, 'The Suicide Squad' ofrece una experiencia cinematográfica única y entretenida.",
-              "portada": "https://img-tomatazos.buscafs.com/72553/72553_832x1232.jpg",
-              "foto": "https://img.europapress.es/fotoweb/fotonoticia_20160401132548_1200.jpg",
-              "genero": "Comedia"
             }
     ]
 }
