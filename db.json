@@ -44,51 +44,6 @@
               "portada": "https://m.media-amazon.com/images/I/61A9pmEjK2L.jpg",
               "foto": "https://cdn.atomix.vg/wp-content/uploads/2023/07/mission.jpg",
               "genero": "Acción, Suspenso"
-            },
-            {
-              "id": 6,
-              "titulo": "Guardians of the Galaxy 3",
-              "anio": 2024,
-              "descripcion": "Los Guardianes de la Galaxia regresan en 'Guardians of the Galaxy Vol. 3', enfrentándose a una nueva amenaza cósmica que pone en peligro la galaxia. Peter Quill, Rocket, Groot, Drax y Gamora deben unir fuerzas una vez más para salvar el universo, enfrentando desafíos personales y enemigos poderosos en el camino. La película combina acción trepidante, humor característico y momentos emotivos, mientras los Guardianes descubren secretos del pasado y fortalecen sus lazos como familia. Con una banda sonora épica y efectos visuales impresionantes, esta entrega es una celebración del espíritu aventurero y rebelde de los Guardianes.",
-              "portada": "https://m.media-amazon.com/images/I/71OLMNKaKEL.jpg",
-              "foto": "https://sm.ign.com/ign_latam/news/g/guardians-/guardians-of-the-galaxy-3-james-gunn-confirms-number-of-post_92kf.jpg",
-              "genero": "Ciencia Ficción"
-            },
-            {
-              "id": 7,
-              "titulo": "Chapter 5",
-              "anio": 2024,
-              "descripcion": "En 'John Wick: Chapter 5', el legendario asesino a sueldo John Wick se enfrenta a la implacable persecución de la Alta Mesa. Con un precio por su cabeza, John debe emplear todas sus habilidades y recursos para sobrevivir y derrotar a sus enemigos. La película lleva la acción a nuevos niveles, con secuencias de combate coreografiadas de manera impresionante y una narrativa que profundiza en el oscuro mundo del hampa. A medida que John lucha por su libertad y venganza, se enfrenta a antiguos aliados y nuevos adversarios, en una batalla épica que determinará su destino.",
-              "portada": "https://i.pinimg.com/736x/24/83/62/248362b83090e77d104dc9d0b98a0e58.jpg",
-              "foto": "https://hips.hearstapps.com/hmg-prod/images/john-wick-4-1666613955.jpg",
-              "genero": "Acción"
-            },
-            {
-              "id": 8,
-              "titulo": "Fast & Furious X",
-              "anio": 2024,
-              "descripcion": "Dom Toretto y su equipo regresan en 'Fast & Furious X', enfrentándose a su mayor desafío hasta la fecha. En una misión que los lleva a través de múltiples continentes, deben detener una conspiración global que amenaza con desestabilizar el mundo. Con impresionantes escenas de acción, persecuciones a alta velocidad y espectaculares acrobacias, esta entrega combina emoción, lealtad y familia. A medida que el equipo se enfrenta a viejos enemigos y nuevos peligros, descubren la importancia de la unidad y el sacrificio. 'Fast & Furious 11' promete ser una montaña rusa de adrenalina y emoción.",
-              "portada": "https://www.lahiguera.net/cinemania/pelicula/10603/fast_&_furious_x-cartel-11010.jpg",
-              "foto": "https://hips.hearstapps.com/hmg-prod/images/fast-and-furious-x-final-explicado-escena-poscreditos-gal-gadot-the-rock-64674147aa6d8.jpg?crop=1.00xw:0.752xh;0,0&resize=1200:*",
-              "genero": "Acción"
-            },
-            {
-              "id": 9,
-              "titulo": "The Batman: Part II",
-              "anio": 2024,
-              "descripcion": "Bruce Wayne regresa en 'The Batman: Part II', continuando su cruzada contra el crimen en Gotham City. Mientras enfrenta a nuevos y viejos enemigos, Bruce debe lidiar con sus propios demonios internos y la creciente desconfianza de la ciudad que juró proteger. La película profundiza en la psique de Batman, explorando su lucha por mantener el equilibrio entre su vida como el Caballero Oscuro y su identidad como Bruce Wayne. Con una narrativa oscura y atmosférica, impresionantes secuencias de acción y un enfoque en el desarrollo de personajes, esta entrega promete ser una experiencia cinematográfica intensa y cautivadora.",
-              "portada": "https://i.pinimg.com/736x/f1/b9/82/f1b9822783c8971897156580d3e7f6b2.jpg",
-              "foto": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2023/06/batman-3048444.jpg?tf=3840x",
-              "genero": "Drama"
-            },
-            {
-              "id": 10,
-              "titulo": "The Secrets of Dumbledore",
-              "anio": 2024,
-              "descripcion": "En 'Fantastic Beasts: The Secrets of Dumbledore', Newt Scamander y sus aliados se embarcan en una misión para desentrañar los secretos oscuros del pasado de Albus Dumbledore. La película lleva a los espectadores a través de mágicas y peligrosas aventuras, enfrentando a Grindelwald y su creciente poder. A medida que descubren verdades ocultas y forjan alianzas inesperadas, los personajes deben enfrentarse a sus propios miedos y dudas. Con impresionantes efectos visuales, una narrativa rica en detalles y una exploración profunda de la mitología del mundo mágico, esta entrega es una emocionante adición a la saga de 'Fantastic Beasts'.",
-              "portada": "https://moviepostermexico.com/cdn/shop/products/fantastic_beasts_the_secrets_of_dumbledore_ver3_xxlg_1200x1200.jpg?v=1650479836",
-              "foto": "https://hips.hearstapps.com/hmg-prod/images/dan-fogler-jessica-williams-eddie-redmayne-callum-turner-fantastic-beasts-the-secrets-of-dumbledore-1649065100.jpeg?crop=0.733xw:1.00xh;0.111xw,0&resize=1200:*",
-              "genero": "Aventura"
             }
     ]
 }
