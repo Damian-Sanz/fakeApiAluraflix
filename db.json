@@ -134,51 +134,6 @@
               "portada": "https://img-tomatazos.buscafs.com/72553/72553_832x1232.jpg",
               "foto": "https://img.europapress.es/fotoweb/fotonoticia_20160401132548_1200.jpg",
               "genero": "Comedia"
-            },
-            {
-              "id": 16,
-              "titulo": "The Matrix Resurrections",
-              "anio": 2021,
-              "descripcion": "En 'The Matrix Resurrections', Neo regresa a la Matrix, donde enfrenta nuevos desafíos y antiguos enemigos. Con la ayuda de aliados como Trinity y Morpheus, Neo debe descubrir la verdad detrás de su resurrección y luchar contra una amenaza que pone en peligro tanto el mundo real como el virtual. La película presenta impresionantes secuencias de acción, efectos visuales innovadores y una trama que profundiza en los temas filosóficos y tecnológicos de la serie. 'Resurrections' ofrece una nueva perspectiva sobre la lucha por la libertad y la realidad, consolidando su lugar en la legendaria franquicia de 'The Matrix'.",
-              "portada": "https://m.media-amazon.com/images/I/71nI5gwKm1L._AC_UF894,1000_QL80_.jpg",
-              "foto": "https://i.blogs.es/00bae3/matrixposters.0/1366_2000.jpeg",
-              "genero": "Ciencia Ficción"
-            },
-            {
-              "id": 17,
-              "titulo": "Shang-Chi",
-              "anio": 2021,
-              "descripcion": "En 'Shang-Chi and the Legend of the Ten Rings', Shang-Chi debe enfrentar el pasado que pensó haber dejado atrás cuando es arrastrado a la red de la misteriosa organización de los Diez Anillos. La película combina artes marciales con elementos de fantasía, explorando la identidad y el legado del protagonista. A medida que Shang-Chi descubre secretos familiares y enfrenta a poderosos enemigos, debe aceptar su verdadero destino como un héroe. Con impresionantes secuencias de acción, una narrativa emocionalmente rica y una celebración de la cultura asiática, 'Shang-Chi' es una emocionante adición al Universo Cinematográfico de Marvel.",
-              "portada": "https://moviepostermexico.com/cdn/shop/products/shangchi_and_the_legend_of_the_ten_rings_xxlg_4d6a5a65-8f3d-4765-8c0f-3238c5650922_1024x1024@2x.jpg?v=1628221418",
-              "foto": "https://www.smashmexico.com.mx/wp-content/uploads/2021/09/shang-chi-and-the-legends-of-the-ten-rings-pelicula-explicacion-final-escenas-postcreditos-anillos.jpg",
-              "genero": "Acción"
-            },
-            {
-              "id": 18,
-              "titulo": "The Green Knight",
-              "anio": 2021,
-              "descripcion": "En 'The Green Knight', Sir Gawain, el sobrino imprudente e impetuoso del Rey Arturo, emprende una audaz búsqueda para enfrentarse al enigmático Green Knight, un gigante esmeralda y probador de hombres. La película es una adaptación visualmente deslumbrante y profundamente atmosférica del poema medieval, explorando temas de honor, valentía y el destino. A medida que Gawain enfrenta desafíos sobrenaturales y tentaciones, su viaje se convierte en una reflexión sobre la naturaleza de la caballería y el sacrificio. Con una cinematografía impresionante y una narrativa envolvente, 'The Green Knight' es una experiencia cinematográfica única y cautivadora.",
-              "portada": "https://mx.web.img2.acsta.net/pictures/21/06/15/19/15/0165525.jpg",
-              "foto": "https://www.otroscines.com/images/fotos/la-leyenda-del-caballero-verde-adentro.jpeg",
-              "genero": "Drama"
-            },
-            {
-              "id": 19,
-              "titulo": "A Quiet Place Part II",
-              "anio": 2021,
-              "descripcion": "En 'A Quiet Place Part II', la familia Abbott continúa su lucha por sobrevivir en un mundo post-apocalíptico donde cualquier sonido puede atraer a mortales criaturas alienígenas. Después de los eventos de la primera película, Evelyn y sus hijos deben enfrentarse a los horrores del mundo exterior mientras buscan nuevos refugios y aliados. La película mantiene la tensión y el suspense, con momentos de intenso silencio y peligro inminente. A medida que descubren más sobre las criaturas y su origen, los personajes deben tomar decisiones cruciales para protegerse mutuamente y garantizar su supervivencia.",
-              "portada": "https://play-lh.googleusercontent.com/xTBNmMn55dI_eZWekdY4WA--G4ItQAO6MY5Apzn0g0Yd6wmot25I-Bj2_yZni-yf-yMW6KbQczR_l4Oke1xO",
-              "foto": "https://i.ytimg.com/vi/v1cCr1t9jDI/maxresdefault.jpg",
-              "genero": "Ciencia Ficción"
-            },
-            {
-              "id": 20,
-              "titulo": "Cruella",
-              "anio": 2021,
-              "descripcion": "En 'Cruella', se revela la historia de origen de una de las villanas más icónicas de Disney. Estella, una joven con un talento innato para la moda y una mente rebelde, se embarca en un viaje para convertirse en la legendaria Cruella de Vil. La película sigue su transformación, desde su lucha en las calles de Londres hasta su ascenso en el mundo de la moda, donde se enfrenta a la Baronesa von Hellman, una influyente y despiadada figura de la alta costura. Con un estilo visual impresionante, actuaciones memorables y una banda sonora vibrante, 'Cruella' ofrece una perspectiva fresca y cautivadora sobre el origen del personaje.",
-              "portada": "https://es.web.img3.acsta.net/pictures/21/04/21/11/08/5393301.jpg",
-              "foto": "https://media.vogue.mx/photos/604fbc2ceb2bb49b3a8c96cf/master/pass/Cruella-Emma-Stone-Disney.jpg",
-              "genero": "Comedia, Crimen"
             }
     ]
 }
