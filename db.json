@@ -8,42 +8,6 @@
               "portada": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwT0DaoARnqBmU37HoRe16V7n76zTmR-TAGQ&s",
               "foto": "https://ca-times.brightspotcdn.com/dims4/default/06f0f9b/2147483647/strip/true/crop/6000x4000+0+0/resize/2400x1600!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F43%2F9f%2F581d95824ebd98a8314a8f35c426%2Frev-1-dun2-38301r-high-res-jpeg.jpeg",
               "genero": "Ciencia Ficción"
-            },
-            {
-              "id": 2,
-              "titulo": "Beyond the Spider-Verse",
-              "anio": 2024,
-              "descripcion": "Miles Morales regresa en 'Spider-Man: Beyond the Spider-Verse', una emocionante aventura que lo lleva a través de múltiples dimensiones. Mientras se enfrenta a una nueva amenaza interdimensional, Miles debe unir fuerzas con otros Spider-People para salvar sus mundos. La película explora temas de identidad, responsabilidad y heroísmo, ofreciendo deslumbrantes secuencias de animación y una narrativa emocionalmente resonante. Con personajes queridos y nuevos aliados, esta entrega lleva la saga de Spider-Man a nuevas alturas, consolidando a Miles como uno de los héroes más icónicos del multiverso.",
-              "portada": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/715b5211-681f-47a4-9d2a-31702395ee30/dfzl2mb-80362770-77f3-4b95-b6eb-08a6b437003b.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzcxNWI1MjExLTY4MWYtNDdhNC05ZDJhLTMxNzAyMzk1ZWUzMFwvZGZ6bDJtYi04MDM2Mjc3MC03N2YzLTRiOTUtYjZlYi0wOGE2YjQzNzAwM2IuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.07T1KIXHRDlbqopZutK5ibIIh_64Os769C7wpgAkZsc",
-              "foto": "https://ap-cdn.sfo3.cdn.digitaloceanspaces.com/uploads/2023/06/spider-man-beyond-the-spider-verse-fecha-reparto.jpg",
-              "genero": "Acción"
-            },
-            {
-              "id": 3,
-              "titulo": "The Marvels",
-              "anio": 2024,
-              "descripcion": "En 'The Marvels', Captain Marvel, Ms. Marvel y Monica Rambeau unen fuerzas para enfrentar una amenaza cósmica que pone en peligro el universo. La película explora las dinámicas entre los tres héroes mientras descubren cómo sus poderes están misteriosamente entrelazados. A medida que luchan contra enemigos poderosos y enfrentan desafíos personales, las Marvels deben aprender a confiar entre sí y trabajar en equipo para salvar el día. Con espectaculares secuencias de acción y una trama llena de giros sorprendentes, 'The Marvels' es una emocionante adición al Universo Cinematográfico de Marvel.",
-              "portada": "https://www.pantalla90.es/wp-content/uploads/2023/11/nuevo-poster-de-the-marvels-original.jpg",
-              "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlsaEvd7tYU8lg7UZsvOjjrdhGOFGh0Jk4wA&s",
-              "genero": "Acción, Ciencia Ficción"
-            },
-            {
-              "id": 4,
-              "titulo": "Avatar",
-              "anio": 2024,
-              "descripcion": "En 'Avatar', Jake Sully y Neytiri continúan explorando los misterios de Pandora mientras enfrentan nuevas amenazas que ponen en peligro la armonía del planeta. A medida que descubren nuevas regiones y se encuentran con diferentes clanes Na'vi, deben unir fuerzas para proteger su hogar de una inminente invasión. La película presenta impresionantes efectos visuales y profundiza en la rica mitología de Pandora, explorando temas de unidad, supervivencia y la conexión entre todas las formas de vida. 'Avatar 3' promete ser una experiencia cinematográfica épica y visualmente deslumbrante.",
-              "portada": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2TxZ7PqP-Im8Bv0B8JEkcO7Sh2mrjz6OFeQ&s",
-              "foto": "https://i.blogs.es/531940/edhbabdegbcurd5az4s7x2rnci/1366_2000.jpeg",
-              "genero": "Aventura, Ciencia Ficción"
-            },
-            {
-              "id": 5,
-              "titulo": "Dead Reckoning",
-              "anio": 2024,
-              "descripcion": "Ethan Hunt regresa en 'Mission: Impossible - Dead Reckoning Part Two', enfrentando su misión más peligrosa hasta la fecha. Con el destino del mundo en juego, Ethan y su equipo deben desmantelar una organización terrorista que amenaza con desatar el caos global. A medida que la tensión aumenta, Ethan se encuentra en una carrera contrarreloj, enfrentando traiciones y peligros inimaginables. Con espectaculares escenas de acción y una trama llena de giros y sorpresas, esta entrega promete mantener a los espectadores al borde de sus asientos, consolidando a Ethan Hunt como uno de los héroes de acción más icónicos del cine.",
-              "portada": "https://m.media-amazon.com/images/I/61A9pmEjK2L.jpg",
-              "foto": "https://cdn.atomix.vg/wp-content/uploads/2023/07/mission.jpg",
-              "genero": "Acción, Suspenso"
             }
     ]
 }
